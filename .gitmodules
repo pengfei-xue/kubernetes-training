@@ -1,0 +1,3 @@
+[submodule "rocketmq-operator"]
+	path = rocketmq-operator
+	url = https://github.com/apache/rocketmq-operator.git
