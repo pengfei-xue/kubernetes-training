@@ -1,3 +1,6 @@
 [submodule "rocketmq-operator"]
 	path = rocketmq-operator
 	url = https://github.com/apache/rocketmq-operator.git
+[submodule "apisix-helm-chart"]
+	path = apisix-helm-chart
+	url = git@github.com:apache/apisix-helm-chart.git
